@@ -10,6 +10,10 @@ A collection of links to useful city resources, external websites, and services.
 
 - [ParkMe](https://www.parkme.com/grand-rapids-mi-parking) - Find the cheapest, closest parking to your destination.
 
+## Voting
+
+- [Michigan Voter Information Center](https://webapps.sos.state.mi.us/MVIC/) - View registration status and sample ballots.
+
 # Like Minded Groups
 
 - [18F](https://18f.gsa.gov) - 18F is an office within the General Services Administration (GSA) that works with federal agencies to successfully deliver efficient, easy-to-use digital services.
