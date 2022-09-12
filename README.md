@@ -10,6 +10,10 @@ A collection of links to useful city resources, external websites, and services.
 
 - [ParkMe](https://www.parkme.com/grand-rapids-mi-parking) - Find the cheapest, closest parking to your destination.
 
+## Housing
+
+- [Urban Grand Rapids](https://urbangr.org/) - A blog about ubranism in Grand Rapids, MI.
+
 ## Voting
 
 - [Michigan Voter Information Center](https://webapps.sos.state.mi.us/MVIC/) - View registration status and sample ballots.
